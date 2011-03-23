@@ -1,0 +1,14 @@
+#summary One-sentence summary of this page.
+#labels j2ee,jdbcxml,jquery
+
+= Introduction =
+
+Add your content here.
+
+这个程序完全是为了解决小门店的销售统计之用，而且很容易看懂。比较适合初级java程序员学习。
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
